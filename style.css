@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-    .img-wrapper { text-align: center;
-}
+    .img-wrapper {
+        text-align: center;
+    }
 }
 .centered-element {
     display: block;
